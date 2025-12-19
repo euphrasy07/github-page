@@ -1,1 +1,1 @@
-# github-page
+# site-statique
